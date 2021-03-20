@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/speedrun_buildrepo/static/css/main.4d43c544.chunk.css",
+    "main.js": "/speedrun_buildrepo/static/js/main.c989a77f.chunk.js",
+    "main.js.map": "/speedrun_buildrepo/static/js/main.c989a77f.chunk.js.map",
+    "runtime-main.js": "/speedrun_buildrepo/static/js/runtime-main.e6e19452.js",
+    "runtime-main.js.map": "/speedrun_buildrepo/static/js/runtime-main.e6e19452.js.map",
+    "static/js/2.5acf22da.chunk.js": "/speedrun_buildrepo/static/js/2.5acf22da.chunk.js",
+    "static/js/2.5acf22da.chunk.js.map": "/speedrun_buildrepo/static/js/2.5acf22da.chunk.js.map",
+    "static/js/3.9d9ba6a2.chunk.js": "/speedrun_buildrepo/static/js/3.9d9ba6a2.chunk.js",
+    "static/js/3.9d9ba6a2.chunk.js.map": "/speedrun_buildrepo/static/js/3.9d9ba6a2.chunk.js.map",
+    "index.html": "/speedrun_buildrepo/index.html",
+    "static/css/main.4d43c544.chunk.css.map": "/speedrun_buildrepo/static/css/main.4d43c544.chunk.css.map",
+    "static/js/2.5acf22da.chunk.js.LICENSE.txt": "/speedrun_buildrepo/static/js/2.5acf22da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6e19452.js",
+    "static/js/2.5acf22da.chunk.js",
+    "static/css/main.4d43c544.chunk.css",
+    "static/js/main.c989a77f.chunk.js"
+  ]
+}
